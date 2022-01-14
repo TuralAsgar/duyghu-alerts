@@ -1,0 +1,18 @@
+{
+  "name": "cli-alerts",
+  "version": "1.0.0",
+  "description": "Prettify alert messages in cli apps",
+  "main": "index.mjs",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "is-unicode-supported": "^1.1.0",
+    "log-symbols": "^5.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.mjs"
+  },
+  "keywords": [],
+  "author": "Tural Asgar",
+  "license": "MIT"
+}
